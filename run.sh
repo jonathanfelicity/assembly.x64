@@ -1,0 +1,1 @@
+as myexit.s -o myexit.o
