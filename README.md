@@ -162,6 +162,25 @@ ASCII provides 128 characters
 ## ASSEMBLER
 Is a program that converts assembly language code to machine code which the CPU can understand. 
 
+
+## BASIC'S OF LINKING PROCESS
+* Write assembly code and save it as source files
+* Assembler reads the source file and translet it to an object file
+* Linker reads the oject file and see if our program reference any code outside our program and like all the specific moduel and finally generate an executable file.
+
+
+## BASIC CODE STRUCTURE 
+```asm
+%include "io64.inc"
+
+section .text
+global CMAIN
+CMAIN:
+	;write your code here
+	xor rax, rax
+	ret
+```
+
 ## Curiculum
 
 
