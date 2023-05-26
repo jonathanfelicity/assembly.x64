@@ -1,0 +1,26 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.s
+# Linker output files
+*.lst
+
+# Debug files
+*.dbg
+*.pdb
+
+# Build output directories
+build/
+bin/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Miscellaneous temporary files
+*~
+*.bak

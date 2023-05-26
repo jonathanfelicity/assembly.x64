@@ -11,6 +11,13 @@
 - Legacy code: Assembly language is still used in some legacy systems and applications that were written several decades ago. By learning assembly language, you can maintain and modify these systems and applications, which may still be in use today.
 
 
+## NUMBER SYSTEM 
+
+* **Decimal(Base 10) :**
+* **Binary(Base 2) :**
+* **Hexidecimal(Base 16) :**
+
+
 ## Curiculum
 
 
